@@ -1,11 +1,12 @@
-Hi there 👋
+Hi There! 👋
 
-I'm Muiz from Macedonia, I really enjoy front-end web development using React.
-Passionate about learning and development with a desire to apply skills on a larger development team.
+I'm Muiz from Macedonia, a dedicated frontend developer specializing in TypeScript, TailwindCSS and React. I have a strong passion for learning and development, with a keen desire to contribute my skills to a dynamic and collaborative development team.
 
-- 🔭 I’m currently working on a bus ticket application.
-- 🌱 I’m currently learning ReactJS
+🔭 Currently, I'm immersed in the development of a cutting-edge bus ticket application, where I apply my expertise in TypeScript and React to create seamless and efficient user experiences.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Knuckleclot)](https://github.com/anuraghazra/github-readme-stats)
+🌱 I'm continuously enhancing my skills in ReactJS, staying up-to-date with the latest advancements in the ever-evolving world of frontend development.
+
+Check out my GitHub stats to see some of the exciting projects I've been working on lately:
 
 
+Feel free to explore my repositories and connect with me. Let's code together and build amazing things! 🚀
