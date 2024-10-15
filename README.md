@@ -1,12 +1,20 @@
-Hi There! 👋
+Hi there! 👋 I'm Muiz Rexhepi from Macedonia
+A passionate frontend developer with 3 years of experience working with cutting-edge technologies such as Next.js, Node.js, MongoDB, TypeScript, TailwindCSS, and state management tools like Zustand and React Context. I thrive in creating seamless user experiences with a strong focus on performance and maintainability.
 
-I'm Muiz from Macedonia, a dedicated frontend developer specializing in TypeScript, TailwindCSS, and React (Next.js). I have a strong passion for learning and development, with a keen desire to contribute my skills to a dynamic and collaborative development team.
+🚀 Current Projects
+🔭 I'm currently immersed in building:
 
-🔭 Currently, I'm immersed in the development of a cutting-edge POS system for restaurants and a food delivery app, where I apply my expertise in TypeScript and React to create seamless and efficient user experiences.
+A POS system for restaurants aimed at optimizing operational efficiency.
+A food delivery app that leverages modern web technologies for a smooth user experience.
+A bus booking system for Europe, where I am applying my skills in Next.js, Node.js, and MongoDB to create a scalable and robust application.
 
-🌱 I'm continuously enhancing my skills in ReactJS, staying up-to-date with the latest advancements in the ever-evolving world of frontend development.
+🛠 Tech Stack & Expertise
+Languages: TypeScript, JavaScript
+Frameworks & Libraries: React, Next.js, Node.js
+State Management: Zustand, React Context
+CSS Frameworks: TailwindCSS
+Databases: MongoDB
+Version Control: Git & GitHub
 
-Check out my GitHub stats to see some of the exciting projects I've been working on lately:
-
-Feel free to explore my repositories and connect with me. Let's code together and build amazing things! 🚀
-
+🌱 Continuous Learning
+I'm always pushing my knowledge in React and staying up-to-date with the latest frontend advancements to ensure I'm building the most efficient and modern solutions.
