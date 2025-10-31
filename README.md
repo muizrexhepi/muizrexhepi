@@ -1,2 +1,2 @@
-Hi there! 👋 I'm Muiz Rexhepi from Macedonia
-A passionate frontend developer with 3 years of experience working with cutting-edge technologies such as Next.js, Node.js, MongoDB, TypeScript, TailwindCSS, and state management tools like Zustand and React Context. I thrive in creating seamless user experiences with a strong focus on performance and maintainability.
+Hi, I’m Muiz Rexhepi from Macedonia.
+I’m a full-stack developer with 4 years of experience building web applications using Next.js, Node.js, MongoDB, TypeScript, and Tailwind CSS. I use tools like Zustand and React Context for state management. I enjoy developing applications that run smoothly, are easy to maintain, and provide a good experience for users.
